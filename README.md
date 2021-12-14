@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nathaniel-Joseph
 - 👀 I’m interested in building mind-blowing softwares that lives on the web.
-- 🌱 I’m currently learning vue @ www.v3.vuejs.org and www.reactjs.org.
+- 🌱 I’m currently learning vue and react @ www.v3.vuejs.org and www.reactjs.org.
 - 💞️ I’m looking foward to collaborate with advanced developers to get new ideas and learn from them.
 - 📫 How to reach me? Send an email to codewithnath05@gmail.com
 
